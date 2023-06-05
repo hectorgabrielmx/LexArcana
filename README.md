@@ -23,8 +23,14 @@
 
 <br>
 
-**Contáctame**<br>
+**CONTACTO**
+
+<br>
+
 <lexarcana1917@gmail.com>
+
+<img src="https://i.imgur.com/u7IedtY.jpeg" width=auto height=210px>
+
 
 <!---
 LexArcana/LexArcana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
