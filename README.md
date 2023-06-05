@@ -1,12 +1,10 @@
-## Hola, soy @LexArcana 👋🏻
+# Hola, soy @LexArcana 👋🏻
 
-- Me interesan proyectos de 🌐 **WebDev** (Front y Back end), 🤖 **Proyectos relacionados con IA** y 🦹 **Ciberseguridad**.
-- 🧠 Estoy aprendiendo **Python**, **OSINT** y **GO**. 
-
+Me interesan proyectos de 🌐 **WebDev** (Front y Back end), 🤖 **Proyectos relacionados con IA** y 🦹 **Ciberseguridad**.
+<br>
+🧠 Estoy aprendiendo **Python**, **OSINT** y **GO**. 
 <br>
 
-
-  
 ▫️ Bash 100%<br>
 ▫️ C++ **100%**<br>
 ▫️ CSS **100%**<br>
@@ -18,13 +16,9 @@
 ▫️ MySQL **100%**<br>
 ▫️ PHP **100%**<br>
 ▫️ Python **60%**<br>
-
-
-
 <br>
 
 **CONTACTO**
-
 <br>
 
 <lexarcana1917@gmail.com>
