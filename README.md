@@ -1,13 +1,20 @@
-- Hi, I’m @LexArcana 👋
-- 👀 I’m interested in 
-- 🌱 I’m currently learning **Python**, **JavaScript**, **OSINT**
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hola, soy @LexArcana 👋🏻
+- Me interesan proyectos de **WebDev** (Front y Back end), **Proyectos relacionados con IA** y **Ciberseguridad**.
+- Estoy aprendiendo **Python**, **OSINT** y **GO**.
 
-| Encabezado 1 | Encabezado 2 |
+- Mis conocimientos:
+| LANG | % |
 | --- | --- |
-| Celda 1 | Celda 2 |
-| Celda 3 | Celda 4 |
+| HTML | 100% |
+| CSS | 100% |
+| C++ | 100% |
+| PHP | 100% |
+| MySQL | 100% |
+| Java | 100% |
+| JavaScript | 100% |
+| Bash | 100% |
+| Markdown | 100% |
+
 
 <!---
 LexArcana/LexArcana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
